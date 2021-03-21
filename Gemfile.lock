@@ -22,13 +22,7 @@ GEM
     ethon (0.12.0)
       ffi (>= 1.3.0)
     eventmachine (1.2.7)
-<<<<<<< HEAD
-    eventmachine (1.2.7-x64-mingw32)
-    ffi (1.13.1)
-    ffi (1.13.1-x64-mingw32)
-=======
     ffi (1.14.2)
->>>>>>> upstream/master
     forwardable-extended (2.6.0)
     html-proofer (3.18.6)
       addressable (~> 2.3)
@@ -78,20 +72,12 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-<<<<<<< HEAD
-    mini_portile2 (2.4.0)
-    nokogiri (1.10.10)
-      mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.10-x64-mingw32)
-      mini_portile2 (~> 2.4.0)
-=======
     mini_portile2 (2.5.0)
     nokogiri (1.11.1)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     nokogiri (1.11.1-x86_64-darwin)
       racc (~> 1.4)
->>>>>>> upstream/master
     nokogumbo (2.0.4)
       nokogiri (~> 1.8, >= 1.8.4)
     parallel (1.20.1)
@@ -108,13 +94,7 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
-<<<<<<< HEAD
-    sassc (2.4.0-x64-mingw32)
-      ffi (~> 1.9)
-    terminal-table (1.8.0)
-=======
     terminal-table (2.0.0)
->>>>>>> upstream/master
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
     typhoeus (1.4.0)
@@ -129,11 +109,7 @@ GEM
 
 PLATFORMS
   ruby
-<<<<<<< HEAD
-  x64-mingw32
-=======
   x86_64-darwin-20
->>>>>>> upstream/master
 
 DEPENDENCIES
   html-proofer (~> 3.18)
